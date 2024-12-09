@@ -14,6 +14,10 @@
 
 > 使用本工具需要先安装 [.NET8](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0) 桌面运行环境。
 
+**视频教学：**
+[点此前往查看视频](https://www.bilibili.com/video/BV1tTqcYmEMp/)
+
+**文字教学：**
 1. 运行工具
 2. 选择程序路径或程序的进程名称
 3. 设置一个尺寸
